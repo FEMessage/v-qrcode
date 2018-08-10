@@ -1,3 +1,9 @@
+## install
+
+```sh
+yarn add @femessage/v-qrcode
+```
+
 ## props
 
 | 名字     | 类型   | 默认值 | 说明                                                         |
